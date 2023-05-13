@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/-adham%20prasetyo%20suryo%20nugroho-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="mailto:adhamugroho9@gmail.com">
-    <img src="https://img.shields.io/badge/adhamugroho9@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+    <img src="https://img.shields.io/badge/adhamugroho9@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=D14836&labelColor=black&color=black">
   </a>
 </p>
 <div align="center">
