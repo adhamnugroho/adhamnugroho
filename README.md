@@ -1,6 +1,8 @@
 <p align="center">
-<img src="https://img.shields.io/badge/-adhamnugroho_1-blue?style=for-the-badge&logo=Instagram&logoColor=E4405F&labelColor=black&color=black">
-  <a href="https://www.linkedin.com/in/adham-prasetyo-suryo-nugroho/">
+<a href="https://www.instagram.com/adhamnugroho_1/">
+    <img src="https://img.shields.io/badge/-adhamnugroho_1-blue?style=for-the-badge&logo=Instagram&logoColor=E4405F&labelColor=black&color=black">
+  </a>
+ <a href="https://www.linkedin.com/in/adham-prasetyo-suryo-nugroho/">
     <img src="https://img.shields.io/badge/-adham%20prasetyo%20suryo%20nugroho-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="mailto:adhamugroho9@gmail.com">
